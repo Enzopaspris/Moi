@@ -26,7 +26,7 @@ def lancers(N):
 
 ## Mon site favori
 
-[Youtube](https://www.youtube.com/?gl=FR&hl=fr)
+[Youtube](https://www.pornhub.com)
 
 ## Une image
 
