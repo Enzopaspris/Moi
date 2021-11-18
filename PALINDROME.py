@@ -1,6 +1,6 @@
 def palin(N):
     L = ogd(N) - 1
-    if JSP : return True
+    if L == 0 : return True
     N1 = N // 10**L
     N2 = N % 10
     if N1 == N2 :
